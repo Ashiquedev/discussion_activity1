@@ -1,3 +1,8 @@
-#!/bin/bash
-sudo apt-get update
-sudo apt install apache2 -y
+"#!/bin/bash"
+"sudo touch 1.txt"
+"sudo apt update"
+"sudo apt-get update -y"
+"sudo apt-get upgrade -y"
+"sudo apt-get dist-upgrade -y"
+"sudo apt install apache2 -y"
+"sudo apt install openjdk-11-jdk -y"
